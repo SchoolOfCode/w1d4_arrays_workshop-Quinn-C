@@ -48,3 +48,9 @@ while (index < englishNumbers.length) {
     index++;
 
 }
+
+//task4 - for loop
+
+for (let i = 0; i < englishNumbers.length; i++) {
+    console.log(englishNumbers[i]);
+};
