@@ -16,3 +16,23 @@ let team = [
     { name: "Max", special_skill: "papier-mâché" },
 
 ];
+
+//Task2
+let options = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+];
+
+console.log(options[3]);
+console.log(options[6]);
+console.log(options[7]);
