@@ -54,3 +54,11 @@ while (index < englishNumbers.length) {
 for (let i = 0; i < englishNumbers.length; i++) {
     console.log(englishNumbers[i]);
 };
+
+//task5 -looping and Reassigning
+
+let words = ["ben", "ha", "spla", "fa", "ca", "dra"];
+// for loop goes here
+for (let n = 0; n < words.length; n++) {
+    console.log(`${words[n]}t`);
+};
